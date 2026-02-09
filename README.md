@@ -4,7 +4,7 @@ A scale adjuster for Filmmaker V10 to adjust the PSQX Scale per Queue
 Please install the software into the main drive of your computer (Normally C Drive) 
 Once installed - Open the software 
 
-DOWNLOAD HERE
+[<DOWNLOAD HERE>](<[Your Download Link here](https://github.com/aogp93-cmd/AD-Colour-PSQX-Scale/blob/main/PSQXScaleEditor_Setup_x64.exe)>)
 
 How to use: 
 
