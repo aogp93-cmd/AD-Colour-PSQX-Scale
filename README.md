@@ -36,3 +36,5 @@ Back Up Now: Select this to create a back up of the Queue settings without makin
 Restore Backup - If you have made an error - Please select restore Backup 
 
 Reset to 100% - If you had made a lot of changes and want to start from fresh - Select Reset to 100% - You would need to print a new file after this and then run the software again to make adjustments. 
+
+AD Colour Ltd cannot be held liable for any damage, loss of business or errors which result from this software, Please check with relevant departments to confirm you are allowed to install this software. 
